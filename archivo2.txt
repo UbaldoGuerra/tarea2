@@ -1,2 +1,7 @@
+Preguntas del foro 1
+
 2. Describa el significado de repositorio.
 R. Este es donde almacenamos un proyecto, este contiene todos los archivos del programa y podemos dar seguimiento con historial de cambios.
+
+3.Aparte de GitHub, Qué otras aplicaciones en la nube utilizamos para subir nuestros repositorios?
+R. Bitbucket, GitLab, también podemos subir estos proyectos a Google Drive.
