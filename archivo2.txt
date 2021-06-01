@@ -1,0 +1,2 @@
+2. Describa el significado de repositorio.
+R. Este es donde almacenamos un proyecto, este contiene todos los archivos del programa y podemos dar seguimiento con historial de cambios.
